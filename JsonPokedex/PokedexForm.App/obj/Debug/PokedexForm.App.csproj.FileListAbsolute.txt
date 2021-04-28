@@ -1,0 +1,15 @@
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.csprojAssemblyReference.cache
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.Form1.resources
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.Properties.Resources.resources
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.csproj.GenerateResource.cache
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.csproj.CoreCompileInputs.cache
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\PokedexForm.App.exe.config
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\PokedexForm.App.exe
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\PokedexForm.App.pdb
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\Pokemon.Lib.dll
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\Pokemon.Lib.pdb
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.csproj.CopyComplete
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.exe
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\PokedexForm.App\obj\Debug\PokedexForm.App.pdb

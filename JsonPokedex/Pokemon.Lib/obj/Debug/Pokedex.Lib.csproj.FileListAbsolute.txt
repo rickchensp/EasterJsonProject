@@ -1,0 +1,9 @@
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\bin\Debug\Pokemon.Lib.dll
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\bin\Debug\Pokemon.Lib.pdb
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\obj\Debug\Pokedex.Lib.csprojAssemblyReference.cache
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\obj\Debug\Pokedex.Lib.csproj.CoreCompileInputs.cache
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\obj\Debug\Pokemon.Lib.dll
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\obj\Debug\Pokemon.Lib.pdb
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Harry Chen\Documents\GitHub\intro-json\JsonPokedex\Pokemon.Lib\obj\Debug\Pokedex.Lib.csproj.CopyComplete
